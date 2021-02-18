@@ -1,0 +1,27 @@
+.p-10 {
+    padding: 2.5rem;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+.items-center {
+    align-items: center;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.flex-row {
+    flex-direction: row;
+}
+.flex {
+    display: flex;
+    background-color: #131921;
+    height: 100px;
+}
+
+
+.mt-10{
+ color:#fff;
+}
+
